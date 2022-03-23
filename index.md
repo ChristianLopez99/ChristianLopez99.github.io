@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Index.css">
+</head>
+<body>
+    <h1>Primera Actividad</h1>
+    
+<div class="job-title">Esta es la primera actividad que nos pidieron de tarea</div>
+<h3>Principio de intercambio equivalente</h3>
+<p>Para obtener algo, es necesario sacrificar algo de un valor equivalente, es el enunciado de este principio, 
+    que rige todas las transmutaciones en la alquimia. Se traduce en que para conseguir algo de una determinada
+     masa y composición, se ha de partir de esos mismos materiales en cantidad y proporción, de tal forma que la
+      reacción se limita a cambiar la forma en que están ordenados. Es la primera y única ley a tener en cuenta por 
+      un alquimista, y lo primero que se aprende. A lo largo de la serie, la validez de este principio es puesta en
+       entredicho, en especial por Hohenheim de la Luz, y por Dante: es el equivalente al principio de conservación
+        de la masa enunciado hace ya dos siglos en nuestro mundo. Sin embargo, ignora uno de los principios
+         fundamentales de la física moderna: la transformación de masa en energía y viceversa, y en ese punto se basan 
+         los dos alquimistas mencionados para criticarlo. Según Hohenheim de la Luz, en una reacción no sólo se aplica
+          la masa a transmutar, sino también energía, y esa energía que sale “de la nada” invalida el principio. Sólo
+           al final se sabe de dónde se obtiene esa energía.
+<h4> Para obtener mas infromación sobre el anime de donde saque el texto siga el siguiente link:</h2>
+<p2>  <li><a href="https://www.youtube.com/watch?v=MznsyJ8iSws&ab_channel=C%C3%A9sarGutierrezChalco">Da click aqui</a></li>
 
-You can use the [editor on GitHub](https://github.com/ChristianLopez99/ChristianLopez99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristianLopez99/ChristianLopez99.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2>Información del alumno</h2>
+<ul>
+    <li>Estudiante de ingenieria</li>
+    <li>Nacionalidad: Mexicana</li>
+    <li>Numero de control: 17150738</li>
+    <li>Email: <a href="christianalq_99@hotmail.com">christianalq_99@hotmail.com</a></li>
+    <li>Tel: 4491791299</li>
+</ul>
+    
+</body>
+</html>
